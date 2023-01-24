@@ -34,7 +34,7 @@
   - [ ] Stage 9 - Frontend
   - [ ] Stage 10 - API Restful
   - [ ] Stage 10 - Deploy e Testes automatizados
-- [ ] Rocketseat - Discover Fundamentar | [🔗 Curso](https://app.rocketseat.com.br/discover/trails/fundamentar)
+- [ ] Rocketseat - Discover Fundamentar | [🔗 Curso](https://app.rocketseat.com.br/discover/trails/fundamentar) [📦 Repositório](https://github.com/sabrinagomesb/rs-trilha-fundamentar)
   - [x] VS Code
   - [ ] HTML
   - [ ] CSS
