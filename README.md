@@ -41,13 +41,11 @@
   - [ ] Javascript
   - [ ] Dom
   - [x] Terminal
-  - [x] NodeJS
+  - [x] NodeJS + EJS  
   - [ ] Banco de dados SQL
   - [x] Git e Github
 
-### Bootcamps
-
-- [ ] Programaria - Frontend 2 | 📅 01/2023 [🎁 Demo](https://sabrinagomesb.github.io/programaria-frontend2/) [📦 Repositório](https://github.com/sabrinagomesb/programaria-frontend2)
+<!-- ### Bootcamps -->
 
 ## ✅ Estudos concluídos
 
@@ -69,6 +67,7 @@
 - [x] Rocketseat - NLW Copa | 📅 11/2022 [🎁 Demo](https://sabrinagomesb.github.io/rs-nlw-copa/) [📦 Repositório](https://github.com/sabrinagomesb/rs-nlw-copa)
 - [x] EBAC - Jornada Dev | 📅 12/2022 [🎁 Demo](https://sabrinagomesb.github.io/ebac-devweek/) [📦 Repositório](https://github.com/sabrinagomesb/ebac-devweek)
 - [x] Rocketseat - NLW Setup | 📅 01/2023 [🎁 Demo](https://sabrinagomesb.github.io/rs-nlw-setup/) [📦 Repositório](https://github.com/sabrinagomesb/rs-nlw-setup)
+- [x] Programaria - Frontend 2 | 📅 01/2023 [🎁 Demo](https://sabrinagomesb.github.io/programaria-frontend2/) [📦 Repositório](https://github.com/sabrinagomesb/programaria-frontend2)
 
 ## 🎯 Próximos estudos
 
