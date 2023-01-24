@@ -3,12 +3,13 @@
 - [Sabrina Gomes Roadmap](#sabrina-gomes-roadmap)
   - [📑 Estudos em andamento](#-estudos-em-andamento)
     - [Cursos](#cursos)
-    - [Bootcamps](#bootcamps)
+    <!-- - [Bootcamps](#bootcamps) -->
   - [✅ Estudos concluídos](#-estudos-concluídos)
     - [Cursos](#cursos-1)
     - [Bootcamps](#bootcamps-1)
   - [🎯 Próximos estudos](#-próximos-estudos)
     - [Cursos](#cursos-2)
+    <!-- - [Bootcamps](#bootcamps-2) -->
 
 ## 📑 Estudos em andamento
 
@@ -51,23 +52,23 @@
 
 ### Cursos
 
-- [x] Gustavo Guanabara - Lógica de Programação | 📅 10/2022 [🔗 Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) [📦 Repositório](https://github.com/sabrinagomesb/gb-logica-programacao)
+- [x] Gustavo Guanabara - HTML & CSS Módulo 2/5 | 📅 12/2022 [🔗 Curso](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
+- [x] Gustavo Guanabara - Javascript | 📅 11/2022 [🔗 Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) [📦 Repositório](https://github.com/sabrinagomesb/gb-javascript-iniciante)
+- [x] William Justen - Git & Github | 📅 11/2022 [🔗 Curso](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
+- [x] Gustavo Guanabara - HTML & CSS Módulo 1/5 | 📅 10/2022 [🔗 Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 - [x] Rocketseat - Discover Conectar | 📅 10/2022 [🔗 Curso](https://app.rocketseat.com.br/discover/trails/conectar)
   - [x] Hardware, Software, firmware e drivers
   - [x] Propriedades e função de memória RAM, HD/SSD e demais hardwares
   - [x] Pensamento computacional e lógica
   - [x] Ambientes e Sistemas Operacionais
-- [x] Gustavo Guanabara - HTML & CSS Módulo 1/5 | 📅 10/2022 [🔗 Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
-- [x] William Justen - Git & Github | 📅 11/2022 [🔗 Curso](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
-- [x] Gustavo Guanabara - Javascript | 📅 11/2022 [🔗 Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) [📦 Repositório](https://github.com/sabrinagomesb/gb-javascript-iniciante)
-- [x] Gustavo Guanabara - HTML & CSS Módulo 2/5 | 📅 12/2022 [🔗 Curso](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
+- [x] Gustavo Guanabara - Lógica de Programação | 📅 10/2022 [🔗 Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) [📦 Repositório](https://github.com/sabrinagomesb/gb-logica-programacao)
 
 ### Bootcamps
 
-- [x] Rocketseat - NLW Copa | 📅 11/2022 [🎁 Demo](https://sabrinagomesb.github.io/rs-nlw-copa/) [📦 Repositório](https://github.com/sabrinagomesb/rs-nlw-copa)
-- [x] EBAC - Jornada Dev | 📅 12/2022 [🎁 Demo](https://sabrinagomesb.github.io/ebac-devweek/) [📦 Repositório](https://github.com/sabrinagomesb/ebac-devweek)
-- [x] Rocketseat - NLW Setup | 📅 01/2023 [🎁 Demo](https://sabrinagomesb.github.io/rs-nlw-setup/) [📦 Repositório](https://github.com/sabrinagomesb/rs-nlw-setup)
 - [x] Programaria - Frontend 2 | 📅 01/2023 [🎁 Demo](https://sabrinagomesb.github.io/programaria-frontend2/) [📦 Repositório](https://github.com/sabrinagomesb/programaria-frontend2)
+- [x] Rocketseat - NLW Setup | 📅 01/2023 [🎁 Demo](https://sabrinagomesb.github.io/rs-nlw-setup/) [📦 Repositório](https://github.com/sabrinagomesb/rs-nlw-setup)
+- [x] EBAC - Jornada Dev | 📅 12/2022 [🎁 Demo](https://sabrinagomesb.github.io/ebac-devweek/) [📦 Repositório](https://github.com/sabrinagomesb/ebac-devweek)
+- [x] Rocketseat - NLW Copa | 📅 11/2022 [🎁 Demo](https://sabrinagomesb.github.io/rs-nlw-copa/) [📦 Repositório](https://github.com/sabrinagomesb/rs-nlw-copa)
 
 ## 🎯 Próximos estudos
 
@@ -85,6 +86,8 @@
   - [ ] SQL Avançado
 - [ ] Rocketseat - Ignite - ReactJS | [🔗 Curso](https://app.rocketseat.com.br/discover/trails/especializar)
 - [ ] Rocketseat - Ignite - NodeJS | [🔗 Curso](https://app.rocketseat.com.br/discover/trails/especializar)
+
+<!-- ### Bootcamps -->
 
 ---
 
