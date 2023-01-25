@@ -43,7 +43,8 @@
   - [ ] Dom
   - [x] Terminal
   - [x] NodeJS + EJS  
-  - [ ] Banco de dados SQL
+  - [x] Banco de dados SQL
+  - [x] Estrutura de Dados  
   - [x] Git e Github
 
 <!-- ### Bootcamps -->
