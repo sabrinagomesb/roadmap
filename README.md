@@ -44,7 +44,10 @@
   - [x] Terminal
   - [x] NodeJS + EJS  
   - [x] Banco de dados SQL
-  - [x] Estrutura de Dados  
+  - [x] Estrutura de Dados
+  - [x] Programação Orientada a Objetos
+  - [x] Programação Funcional
+  - [x] HTTP
   - [x] Git e Github
 
 <!-- ### Bootcamps -->
