@@ -51,7 +51,7 @@
   - [x] Git e Github
 - [ ] Rocketseat - Discover Especializar | [🔗 Curso](https://app.rocketseat.com.br/discover/trails/especializar) [📦 Repositório](https://github.com/sabrinagomesb/rs-trilha-especializar)
   - [x] Javascript Assíncrono e Promisses
-  - [ ] API
+  - [x] API
   - [ ] Fundamentos ReactJS
   - [ ] Fundamento Typescript
   - [ ] SQL Avançado
