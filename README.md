@@ -63,6 +63,7 @@
 ### Cursos
 
 - [x] Gustavo Guanabara - Curso de Banco de Dados MySQL | 📅 02/2023 [🔗 Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
+- [x] Faculdade XP Educação - IGTI - Minicamp Programação Básica | 📅 02/2023 
 - [x] Gustavo Guanabara - HTML & CSS Módulo 2/5 | 📅 12/2022 [🔗 Curso](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
 - [x] Gustavo Guanabara - Javascript | 📅 11/2022 [🔗 Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) [📦 Repositório](https://github.com/sabrinagomesb/gb-javascript-iniciante)
 - [x] William Justen - Git & Github | 📅 11/2022 [🔗 Curso](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
