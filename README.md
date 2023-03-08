@@ -30,7 +30,7 @@
   - [x] Stage 5 - Avançando na programação WEB com JavaScript
   - [ ] Stage 6 - Javascript antes do framework
   - [ ] Stage 7 - Git & Github
-  - [ ] Stage 8 - Backend
+  - [x] Stage 8 - Backend
   - [ ] Stage 9 - Frontend
   - [ ] Stage 10 - API Restful
   - [ ] Stage 10 - Deploy e Testes automatizados
