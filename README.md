@@ -15,13 +15,14 @@
 
 ### Cursos
 
-- [ ] Alura - Formação Ruby on Rails | [🔗 Curso](https://cursos.alura.com.br/formacao-ruby-on-rails) [📦 Repositório](https://github.com/sabrinagomesb/alura-trilha-ruby)
-  - [x] Lógica 1 - Lógica de programação com jogos
-  - [x] Lógica 2 - Continuando seus primeiros passos na programação
-  - [x] Lógica 3 - Mais lógica de programação em um novo jogo
-  - [x] Orientação a Objetos: Melhores técnicas com Ruby
-  - [ ] Ruby on Rails 5 parte 1: Fundamentos
-  - [ ] Ruby on Rails 5 parte 2: Ruby on Rails 5 parte 1: Fundamentos
+- [ ] Ruby on Rails 5.x - Do início ao fim! | [🔗 Curso]() [📦 Repositório]()
+  - [x] Módulo 1 - Conceitos Básicos
+  - [x] Módulo 2 - Ruby Básico
+  - [x] Módulo 3 - Criando nossa primeira aplicação
+  - [ ] Módulo 4 - Configurando o Ambiente de Desenvolvimento Local
+  - [ ] Módulo 5 - Segunda aplicação (Aprofundando-se)
+  - [ ] Módulo 6 - Publicando a app em um VPS
+  - [ ] Módulo 7 - Assuntos Extras   
 - [ ] Rocketseat - Explorer Completo | [🔗 Curso](https://www.rocketseat.com.br/explorer) [📦 Repositório](https://github.com/sabrinagomesb/rs-explorer)
   - [x] Stage 1 - Fundamentos da Programação WEB
   - [x] Stage 2 - Introdução ao HTML e CSS
@@ -34,26 +35,9 @@
   - [ ] Stage 9 - Frontend
   - [ ] Stage 10 - API Restful
   - [ ] Stage 10 - Deploy e Testes automatizados
-- [ ] Rocketseat - Discover Fundamentar | [🔗 Curso](https://app.rocketseat.com.br/discover/trails/fundamentar) [📦 Repositório](https://github.com/sabrinagomesb/rs-trilha-fundamentar)
-  - [x] VS Code
-  - [ ] HTML
-  - [ ] CSS
-  - [ ] Formulários
-  - [ ] Javascript
-  - [ ] Dom
-  - [x] Terminal
-  - [x] NodeJS + EJS  
-  - [x] Banco de dados SQL
-  - [x] Estrutura de Dados
-  - [x] Programação Orientada a Objetos
-  - [x] Programação Funcional
-  - [x] HTTP
-  - [x] Git e Github
 - [ ] Rocketseat - Discover Especializar | [🔗 Curso](https://app.rocketseat.com.br/discover/trails/especializar) [📦 Repositório](https://github.com/sabrinagomesb/rs-trilha-especializar)
   - [x] Javascript Assíncrono e Promisses
   - [x] API
-  - [ ] Fundamentos ReactJS
-  - [ ] Fundamento Typescript
   - [ ] SQL Avançado
     
 <!-- ### Bootcamps -->
@@ -62,6 +46,9 @@
 
 ### Cursos
 
+- [x] Alura - Tailwind | 📅 04/2023 [🔗 Curso](https://www.alura.com.br/conteudo/tailwind-css-estilizando-pagina-classes-utilitarias) [📦 Repositório](https://github.com/sabrinagomesb/alura-tailwind)
+- [x] Alura - Formação Ruby on Rails | 📅 04/2023 [🔗 Curso](https://cursos.alura.com.br/formacao-ruby-on-rails) [📦 Repositório](https://github.com/sabrinagomesb/alura-trilha-ruby)
+- [x] Rocketseat - Discover Fundamentar | 📅 03/2023 [🔗 Curso](https://app.rocketseat.com.br/discover/trails/fundamentar) [📦 Repositório](https://github.com/sabrinagomesb/rs-trilha-fundamentar)
 - [x] Gustavo Guanabara - Curso de Banco de Dados MySQL | 📅 02/2023 [🔗 Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
 - [x] Faculdade XP Educação - IGTI - Minicamp Programação Básica | 📅 02/2023 
 - [x] Gustavo Guanabara - HTML & CSS Módulo 2/5 | 📅 12/2022 [🔗 Curso](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
@@ -86,17 +73,10 @@
 
 ### Cursos
 
+- [ ] Jackson Pires - Desenvolvendo REST / RESTful APIs com Ruby on Rails | [🔗 Curso](https://www.udemy.com/share/101FZ63@PQgmuG8k_zvdl58f3LxTW-pQUB7mK-2f5btmTzQtreH587B2w7KBLdbvmh8zCi2WfA==/)
+- [ ] Jackson Pires - TDD com Ruby on Rails, RSpec e Capybara | [🔗 Curso](https://www.udemy.com/share/1028cQ3@fE_Kbwqqhp3ZRJzYRSTO8iPTfb3O8aLoplNcVIePEGbMQi7dk-e41Xc9TRMweg78sg==/)
+- [ ] Jackson Pires - Docker para desenvolvedores Ruby on Rails | [🔗 Curso](https://www.udemy.com/share/1022B43@h0-QZy8PmSEK52oG3isDjnVcCLItEFeFUYcJkzeSZxeUMawRPj31jg48Qdca2X4P5A==/)
 - [ ] Lucas Caton - Ruby on Rails 6 | [🔗 Curso](https://curso-lucascaton.club.hotmart.com/)
-- [ ] Cod3r - Entendendo Typescript | [🔗 Curso](https://www.cod3r.com.br/courses/entendendo-typescript)
-- [ ] Rocketseat - Discover Especializar | [🔗 Curso](https://app.rocketseat.com.br/discover/trails/especializar)
-  - [ ] Javascript Assíncrono
-  - [ ] APIs
-  - [ ] Fundamentos ReactJS
-  - [ ] Fundamentos Typescript
-  - [ ] Gitflow
-  - [ ] CSS Animação
-  - [ ] SQL Avançado
-- [ ] Rocketseat - Ignite - ReactJS | [🔗 Curso](https://app.rocketseat.com.br/discover/trails/especializar)
 - [ ] Rocketseat - Ignite - NodeJS | [🔗 Curso](https://app.rocketseat.com.br/discover/trails/especializar)
 
 <!-- ### Bootcamps -->
