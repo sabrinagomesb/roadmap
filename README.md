@@ -15,7 +15,7 @@
 
 ### Cursos
 
-- [ ] Ruby on Rails 5.x - Do início ao fim! | [🔗 Curso]() [📦 Repositório]()
+- [ ] Ruby on Rails 5.x - Do início ao fim! | [🔗 Curso](https://www.udemy.com/share/101t8C3@3eAod2UJWE-VSMF2JQO4wtDv2bNzRQqxBFY8A4K63xg4PJrnDsVFl2rXwfe2SdUvhQ==/) [📦 Repositório](https://github.com/sabrinagomesb/jp-ruby-on-rails)
   - [x] Módulo 1 - Conceitos Básicos
   - [x] Módulo 2 - Ruby Básico
   - [x] Módulo 3 - Criando nossa primeira aplicação
